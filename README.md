@@ -4,6 +4,8 @@ EduMetrics is a comprehensive Android application designed to bridge the gap bet
 
 ---
 
+[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/SHAR102938/EduMetrics/releases/download/v1.0/edumetrics.apk)
+
 ## 🚀 Key Features
 
 ### 👨‍🏫 For Faculty (Teachers)
