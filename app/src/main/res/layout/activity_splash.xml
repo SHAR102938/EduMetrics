@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- Animated logo circle -->
+    <View
+        android:id="@+id/logoCircle"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bg_icon_circle" />
+
+    <!-- App name -->
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EduMetrics"
+        android:textColor="@color/accent"
+        android:textSize="40sp"
+        android:fontFamily="sans-serif-bold"
+        android:layout_marginTop="24dp" />
+
+    <!-- Tagline -->
+    <TextView
+        android:id="@+id/tvTagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Smart Academic Tracking"
+        android:textColor="@color/text_secondary"
+        android:textSize="14sp"
+        android:layout_marginTop="8dp" />
+
+    <!-- Bottom loader bar -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="160dp"
+        android:layout_height="4dp"
+        android:layout_marginTop="60dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/accent" />
+
+</LinearLayout>
