@@ -69,3 +69,11 @@ EduMetrics uses a sophisticated sync architecture:
 ---
 
 **Developed for a smarter, more transparent academic environment.**
+
+<h2>📸 Screenshots</h2>
+
+<img src="screenshots/login.jpeg" width="250"/>
+<img src="screenshots/dashboard.jpeg" width="250"/>
+<img src="screenshots/analytics.jpeg" width="250"/>
+<img src="screenshots/attendanceqr.jpeg" width="250"/>
+<img src="screenshots/report.jpeg" width="250"/>
