@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "698135142757",
-    "firebase_url": "https://edumatrix-b1795-default-rtdb.firebaseio.com",
-    "project_id": "edumatrix-b1795",
-    "storage_bucket": "edumatrix-b1795.firebasestorage.app"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:698135142757:android:03f307b5749a472198018c",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.edumetrics.app"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAz5VSe_G9tBn1zBgRnj49cNAeStMuMu7M"
+          "current_key": ""
         }
       ],
       "services": {
@@ -27,15 +27,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:698135142757:android:66745c0ef236e32d98018c",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.shar.edumatrix"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAz5VSe_G9tBn1zBgRnj49cNAeStMuMu7M"
+          "current_key": ""
         }
       ],
       "services": {
